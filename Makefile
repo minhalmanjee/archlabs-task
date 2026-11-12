@@ -1,4 +1,3 @@
-# Simple build / run for Icarus Verilog
 IVERILOG = iverilog
 VVP      = vvp
 SRC      = src/matmul.v src/softmax.v src/attn_top.v tb/attn_tb.v
